@@ -1,4 +1,6 @@
 # CGADS
+
+[![Join the chat at https://gitter.im/CGADS/Lobby](https://badges.gitter.im/CGADS/Lobby.svg)](https://gitter.im/CGADS/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ChenGuang Algorithm and Data Structure library :sunny:
 
 ---
